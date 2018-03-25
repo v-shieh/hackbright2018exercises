@@ -1,3 +1,51 @@
 [submodule "calculator-01-18"]
 	path = calculator-01-18
 	url = https://github.com/v-shieh/calculator-01-18
+[submodule "calculator2-01-18"]
+	path = calculator2-01-18
+	url = https://github.com/v-shieh/calculator2-01-18
+[submodule "HBHomework"]
+	path = HBHomework
+	url = https://github.com/v-shieh/HBHomework
+[submodule "list-slicing012018"]
+	path = list-slicing012018
+	url = https://github.com/v-shieh/list-slicing012018
+[submodule "data-structures012018"]
+	path = data-structures012018
+	url = https://github.com/v-shieh/data-structures012018
+[submodule "StudyguideHB"]
+	path = StudyguideHB
+	url = https://github.com/v-shieh/StudyguideHB
+[submodule "dicts-word-count"]
+	path = dicts-word-count
+	url = https://github.com/v-shieh/dicts-word-count
+[submodule "restaurant_rating"]
+	path = restaurant_rating
+	url = https://github.com/v-shieh/restaurant_rating
+[submodule "markov-chain"]
+	path = markov-chain
+	url = https://github.com/v-shieh/markov-chain
+[submodule "twitter_push"]
+	path = twitter_push
+	url = https://github.com/v-shieh/twitter_push
+[submodule "harvestclassexercise"]
+	path = harvestclassexercise
+	url = https://github.com/v-shieh/harvestclassexercise
+[submodule "melonclasses2018"]
+	path = melonclasses2018
+	url = https://github.com/v-shieh/melonclasses2018
+[submodule "csstrials"]
+	path = csstrials
+	url = https://github.com/v-shieh/csstrials
+[submodule "flaskintrohb"]
+	path = flaskintrohb
+	url = https://github.com/v-shieh/flaskintrohb
+[submodule "madlibshb"]
+	path = madlibshb
+	url = https://github.com/v-shieh/madlibshb
+[submodule "shoppingsitehb"]
+	path = shoppingsitehb
+	url = https://github.com/v-shieh/shoppingsitehb
+[submodule "testingcodesHB"]
+	path = testingcodesHB
+	url = https://github.com/v-shieh/testingcodesHB
