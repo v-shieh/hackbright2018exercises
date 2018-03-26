@@ -49,3 +49,27 @@
 [submodule "testingcodesHB"]
 	path = testingcodesHB
 	url = https://github.com/v-shieh/testingcodesHB
+[submodule "SQLexercises"]
+	path = SQLexercises
+	url = https://github.com/v-shieh/SQLexercises
+[submodule "projecttrackerhb012218"]
+	path = projecttrackerhb012218
+	url = https://github.com/v-shieh/projecttrackerhb012218
+[submodule "project-tracker-py"]
+	path = project-tracker-py
+	url = https://github.com/v-shieh/project-tracker-py
+[submodule "projecttrackerflask"]
+	path = projecttrackerflask
+	url = https://github.com/v-shieh/projecttrackerflask
+[submodule "jstrialhb"]
+	path = jstrialhb
+	url = https://github.com/v-shieh/jstrialhb
+[submodule "coffeeshophb"]
+	path = coffeeshophb
+	url = https://github.com/v-shieh/coffeeshophb
+[submodule "ratingsgh"]
+	path = ratingsgh
+	url = https://github.com/v-shieh/ratingsgh
+[submodule "bootstraphb"]
+	path = bootstraphb
+	url = https://github.com/v-shieh/bootstraphb
